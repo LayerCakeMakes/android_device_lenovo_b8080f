@@ -44,4 +44,5 @@ BOARD_HAS_NO_SELECT_BUTTON := true
 
 # TWRP
 TW_THEME                     := landscape_hdpi
+TARGET_RECOVERY_PIXEL_FORMAT := "RGB_565"
 TARGET_RECOVERY_QCOM_RTC_FIX := true
