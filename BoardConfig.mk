@@ -1,4 +1,4 @@
-# inherit from the proprietary version
+# Include the non-open-source counterpart to this file.
 -include vendor/lenovo/b8080f/BoardConfigVendor.mk
 
 # Architecture
