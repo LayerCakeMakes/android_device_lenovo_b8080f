@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/device_b8080f.mk
+    $(LOCAL_DIR)/omni_b8080f.mk
