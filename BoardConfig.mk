@@ -47,3 +47,9 @@ TARGET_RECOVERY_PIXEL_FORMAT := "RGB_565"
 # TWRP
 TW_THEME                     := landscape_hdpi
 TARGET_RECOVERY_QCOM_RTC_FIX := true
+
+# Power
+TARGET_POWERHAL_VARIANT := qcom
+
+# Qualcomm
+BOARD_USES_QCOM_HARDWARE := true
