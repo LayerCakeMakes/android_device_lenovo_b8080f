@@ -15,7 +15,3 @@ PRODUCT_AAPT_PREF_CONFIG := hdpi
 PRODUCT_COPY_FILES += \
     device/lenovo/b8080f/twrp.fstab:recovery/root/etc/twrp.fstab \
     bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
-
-# Media
-PRODUCT_PACKAGES += \
-    libdashplayer
