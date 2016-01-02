@@ -48,6 +48,9 @@ TARGET_RECOVERY_PIXEL_FORMAT := "RGB_565"
 TW_THEME                     := landscape_hdpi
 TARGET_RECOVERY_QCOM_RTC_FIX := true
 
+# Media
+TARGET_QCOM_MEDIA_VARIANT := caf
+
 # Power
 TARGET_POWERHAL_VARIANT := qcom
 
