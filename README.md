@@ -1,3 +1,7 @@
+**This project is no longer in development.**  
+The CyanogenMod/LineageOS build gets stuck at boot in a mode that does not give any logs for further investigation.  
+The TWRP build did work previously but is no longer maintained.
+
 # Device configuration for Lenovo Yoga HD 10+ (Wi-Fi only)
 
 | Basic                   | Spec Sheet                           |
